@@ -1,13 +1,15 @@
 {
-  "id": "kevinlee333/INSERT_KERNEL_SLUG_HERE",
-  "title": "INSERT_TITLE_HERE",
-  "code_file": "INSERT_CODE_FILE_PATH_HERE",
-  "language": "Pick one of: {python,r,rmarkdown}",
-  "kernel_type": "Pick one of: {script,notebook}",
-  "is_private": "true",
-  "enable_gpu": "false",
-  "enable_internet": "true",
+  "id": "code/kevinlee333/rookie-draft-0",
+  "id_no": 25504672,
+  "title": "rookie_draft_0",
+  "code_file": "rookie-draft-0.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
   "dataset_sources": [],
-  "competition_sources": [],
-  "kernel_sources": []
+  "kernel_sources": [],
+  "competition_sources": []
 }
